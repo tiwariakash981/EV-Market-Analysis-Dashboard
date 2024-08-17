@@ -37,7 +37,7 @@ To view and interact with the dashboards, you can access the Tableau public link
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/EV-Market-Analysis-Dashboard.git
+    git clone https://github.com/tiwariakash981/EV-Market-Analysis-Dashboard.git
     ```
 
 2. Open the Tableau workbook using Tableau Reader or Tableau Desktop.
