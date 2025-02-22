@@ -4,6 +4,9 @@
 ## Overview
 
 This project provides a comprehensive analysis of the electric vehicle (EV) market using Tableau. It covers key metrics and trends, offering valuable insights into the adoption and growth of electric vehicles.
+![Shows GUI section of my Project](Screenshot (5).png)
+
+
 
 ## Key Features
 
